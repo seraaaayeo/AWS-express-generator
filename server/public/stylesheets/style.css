@@ -66,9 +66,8 @@ header.masthead .masthead-heading {
   }
   .font-weight-bold {
       font-weight: 700 !important;
+  } 
+  .text-center {
+      text-align: center !important;
   }
-}
-
-.text-center {
-  text-align: center !important;
 }
