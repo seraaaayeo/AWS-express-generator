@@ -7,6 +7,12 @@
 * port : 3000
 * uri : /error, /users
 
+### How to run on local
+```
+cd /server
+npm start
+```
+
 ## REMEMBER
 * pm2 켜기
     - pm2 start npm -- start
